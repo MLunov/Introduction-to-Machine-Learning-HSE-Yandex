@@ -1,5 +1,5 @@
 # Introduction to Machine Learning
-<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a2/c23430579811e59644373576122c07/Ya-Icon-new-size.jpg?auto=format%2Ccompress&dpr=1' width="500" height="500">
+<p align="center"> <img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/a2/c23430579811e59644373576122c07/Ya-Icon-new-size.jpg?auto=format%2Ccompress&dpr=1' width="500" height="500"> </p>
 
 This repository contains materials and solutions for [Introduction to Machine Learning](https://www.coursera.org/learn/vvedenie-mashinnoe-obuchenie) course, created by HSE and Yandex School of Data Analysis.
 *** 
